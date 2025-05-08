@@ -82,10 +82,19 @@ footer
     font-size: 12px;
 }
 
-.mainLogoMid {
+.mainLogoMid
+{
     float: right;
     height: 256px;
     padding: 64px;
+}
+
+@media (orientation: portrait)
+{
+	.mainLogoMid
+	{
+		display: none;
+	}
 }
 
 .defaultCTA {
