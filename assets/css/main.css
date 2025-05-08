@@ -54,12 +54,24 @@ footer
     font-size: 12px;
 }
 
+.xxlText
+{
+    font-size: 86px;
+}
+.xlText
+{
+    font-size: 78px;
+}
+.lText
+{
+    font-size: 74px;
+}
 .mainText {
     font-size: 64px;
 }
 .subText
 {
-	font-size: 24px;
+	font-size: 26px;
 }
 .defText
 {
